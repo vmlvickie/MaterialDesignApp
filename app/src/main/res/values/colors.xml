@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="overFlowMenu">#050505</color>
+    <color name="grey_800">#ffffff</color>
+    <color name="contextual_background">#5ce2be</color>
+    <color name="contextulaText">#e18383</color>
+</resources>
